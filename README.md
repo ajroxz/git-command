@@ -24,7 +24,7 @@ combination
 go to master back 
 		git checkout master
 If changes made or added new file
-		git add -A  (-A means all)
+		git add -A  (-A means all),to perform changes
 ** commit ** 
 		git commit -m "Fixed documentation typos"
 		git commit (If minor change)
