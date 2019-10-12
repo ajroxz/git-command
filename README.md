@@ -40,6 +40,8 @@ check local repository is up to date with upstream repository
 		git remote -v
 specify a new remote upstream repository for us to sync with the fork.
 		git remote add upstream https://github.com/original-owner-username/original-repository.git
+We can verify that our remote pointer to the upstream repository was properly added by using the.
+		git remote -v
 Sync the Fork
 		git fetch upstream
 	(commits to the master branch will be stored in a local branch called upstream/master.)
