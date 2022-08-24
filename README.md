@@ -51,6 +51,5 @@ merge changes to local master branch
 		git merge upstream/master
 *****Create Pull Request*****
 
-git rebase and merge
-it is also important
+
 		
