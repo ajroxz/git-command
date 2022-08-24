@@ -50,4 +50,6 @@ switch to the local master branch of our repository
 merge changes to local master branch
 		git merge upstream/master
 *****Create Pull Request*****
+
+git rebase and merge
 		
