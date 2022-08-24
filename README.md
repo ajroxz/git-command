@@ -49,6 +49,7 @@ switch to the local master branch of our repository
 		git checkout master
 merge changes to local master branch
 		git merge upstream/master
+		
 *****Create Pull Request*****
 
 
